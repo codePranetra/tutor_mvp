@@ -108,3 +108,4 @@ A Flask web application that uses LangChain to create a RAG (Retrieval-Augmented
 - The vector store is created in memory and will be rebuilt on each restart
 - For production use, consider persisting the vector store to disk
 
+
